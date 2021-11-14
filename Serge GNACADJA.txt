@@ -1,0 +1,77 @@
+************************-Test de formateur-*************************
+|						            	   |
+| --DOMAINES DE FORMATION			       	           |
+|								   |
+| ------Dart							   |
+| --------Projets réalisés : 					   |
+| 		Les projets réalisés en dart se trouvent	   |
+| 		tous dans un même dossier disponible sur 	   |
+|		GITHUB avec l'adresse suivante			   |
+|		https://github.com/Gnac05/fonctions_dart	   |
+|		En effet,					   |
+|		Le fichier *chercheurdecaracter.dart*,             |
+|		contient des fonctions qui permettent de	   |
+|		savoir si il y a ou pas un caractère donné	   |
+|		dans un string grâce à son code ascii.		   |
+|		Le fichier *codeascii.dart*,			   |
+|		montre en quelques sortes comment avoir le 	   |
+|		code ascii d'un caractère dans une chaine 	   |
+|		de caractère.					   |
+|		Le fichier *emoji.dart*,			   |
+|		montre comment afficher les émoticones en	   |
+|		dart.						   |
+|		Le fichier *sequencer.dart*,			   |
+|		contient des fonctions qui permettent de	   |
+|		séparer une chaine de caractère de sortes	   |
+|		à avoir de l'espace après chaque trois 		   |
+|		caractères.					   |
+|		Le fichier *string.dart*,			   |
+|		sert à comprendre correctement la fonction         |
+|		substring de dart.				   |
+|								   |
+| ------Flutter 						   |
+| --------Projets réalisés : 					   |
+|	  Nous avons réalisé deux types de projets dont:	   |
+|								   |
+|	  	*UI Dynamique*(très jolie interface pour	   | 
+|		une meilleur expérience de sur l'app)		   |
+|		On a:						   |
+|		https://github.com/Gnac05/ui_shoes		   |
+|		sur cette page (voir photo ui_shoes) ici	   |
+|		on peut transformer le coeur blanc en rouge	   |
+|		et modifier la quantité qui est initialement	   |
+|		à '1'.						   |
+|		https://github.com/Gnac05/ui_car_001		   |
+|		voir les photos du dossier ui_car_001. 	 	   |
+|		https://github.com/Gnac05/eP-Dev-High-School-App   |
+|		juste des pages reliées entre elles et qui 	   |
+|		permet à l'utilisateur de s'inscrire ou de	   |
+|		se connecter, d'entrer ses informations et	   |
+|		et d'avoir en retour de reponses spécifique	   |
+|		en tenant compte du type d'utilisateur.		   |
+|		https://github.com/Gnac05/modern-car		   |
+|		UI qui montre des voitures et avec deux 	   |
+|		cliques on a la possibilité de voir leur	   |
+|		caractéristiques.				   |
+|								   |
+|		*Application en cour de developpement*		   |
+|		https://github.com/Gnac05/Calculator		   |
+|		(c'est-à-dire opérationnel mais toujours	   |
+|		en cours de développement )			   |
+|		Elle permet de faire des calcules basiques	   |
+|		et donne des résultat facile à lire.		   |
+|              ♣Elle permet aussi de résoudre un système	   |
+|		de 2 équations à 2 inconnues grâce au 		   |
+|		au bouton qui est sur l'AppBar.			   |
+|		Pour plus de compréhension voir l'APK		   |
+|		mais pour la version 10 d'android		   |
+|								   |
+| ------AlgoBox 						   |
+| --------Projets réalisés :					   |
+| 	  	https://github.com/Gnac05/AlgoBox		   |
+|		Ce dossier contient l'algo de table de 		   |
+|		multiplication. 				   | 
+********************************************************************
+
+Ce document ainsi que les éléments qui ont été mensionné dedans sont
+disponible sur github à l'adresse https://github.com/Gnac05/_test
